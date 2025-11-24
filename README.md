@@ -5,7 +5,7 @@ Title:Prediction and Mechanistic Analysis of Hydrophilic and Hydrophobic Trace O
 Chemical Engineering Journal     
 Manuscript ID: CEJ-D-25-44161R1
 
-Author: Anqi Zhu, Yuanyu Wu, Zhanlin Ji,
+Author: Anqi Zhu, Yuanyu Wu, Zhanlin Ji, e-mail:zhanlin.ji@ncst.edu.cn
 
 College of Mathematics and Computer Science, Zhejiang A&F University, Hangzhou 311300, China.
 Hebei Key Laboratory of Industrial Intelligent Perception College of Artificial Intelligence North China University of Science and Technology, Tangshan, 063210, China.
